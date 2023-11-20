@@ -1,5 +1,3 @@
 # Code-Dumps
-![image](https://github.com/olatunde222/Code-Dumps/assets/115417709/fc635139-5aec-4690-b9ab-e0bbd61f88f0)
-
-![image](https://github.com/olatunde222/Code-Dumps/assets/115417709/45b697e2-3b43-4772-baad-58757944b4de)
+![image](https://github.com/olatunde222/Logins/assets/115417709/3643912a-6657-466e-97eb-5d62708b190c)
 
